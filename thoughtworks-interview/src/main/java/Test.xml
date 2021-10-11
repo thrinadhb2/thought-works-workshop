@@ -4,7 +4,7 @@
 <suite name = "Suite" configfailurepolicy="skip">
    <test name = "test" group-by-instances="true" preserve-order="true">
       <classes>
-         <class name ="funtionalTest.FuntionalTest"/>
+         <class name ="funtionalTest.TestClass"/>
       </classes>
    </test>
 </suite>
